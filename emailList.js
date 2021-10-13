@@ -12,3 +12,4 @@ const emailAdresses = patients.map(function(patient) {
 });
 
 console.log(emailAdresses);
+ console.log("privet"); 
